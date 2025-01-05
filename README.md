@@ -1,5 +1,4 @@
 # Bazaar Marketplace #
----
 
 Bazaar Marketplace is a mobile application that enables users to buy or sell items with ease through a straightforward, user-friendly interface. Built on the **MERN stack** (MongoDB, Express.js, React Native, and Node.js), Bazaar delivers robust functionality for managing listings and finding products in your vicinity.
 
