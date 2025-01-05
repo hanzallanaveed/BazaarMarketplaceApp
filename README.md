@@ -33,7 +33,7 @@ Follow the steps below to run the Bazaar Marketplace application locally.
 
 1. Clone the Repository
    ```bash
-    git clone <https://github.com/huzaifazia17/BazaarMarketplaceApp>
+    git clone <https://github.com/hanzallanaveed/BazaarMarketplaceApp>
     cd BazaarMarketplace
     ```
 2. Set Up the Backend (Server)
